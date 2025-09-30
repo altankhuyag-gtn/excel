@@ -13,7 +13,7 @@ import 'src/web_helper/client_save_excel.dart'
 /// main directory
 part 'src/excel.dart';
 
-/// sharedStrigns
+/// shared Strings
 part 'src/sharedStrings/shared_strings.dart';
 
 /// Number Format

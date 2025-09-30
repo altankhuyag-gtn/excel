@@ -88,7 +88,7 @@ class Save {
       );
     }
 
-    // TODO track & write the numFmts/numFmt to styles.xml if used
+    // TODO track & write the num Formats / num Format to styles.xml if used
     final List<XmlElement> children;
     switch (value) {
       case null:
